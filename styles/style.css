@@ -1,4 +1,5 @@
 @import url(../blocks/page/page.css);
+@import url(../fonts/fonts.css);
 
 /* Стили для Header */
 @import url(../blocks/header/header.css);
