@@ -9,10 +9,10 @@
   right: 48px;
   opacity: 1;
   transition-property: opacity;
-  transition-duration: .4s;
+  transition-duration: 0.4s;
   transition-timing-function: ease;
 }
 
 .feynman__link:hover {
-  opacity: .4;
+  opacity: 0.4;
 }
